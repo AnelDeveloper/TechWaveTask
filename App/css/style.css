@@ -1,0 +1,51 @@
+#mainContainer {
+    position: relative;
+    width: 540px;
+    height: 360px;
+
+}
+
+#content {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 640px;
+    height: 360px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+
+
+}
+
+
+#adContainer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 640px;
+    height: 340px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+
+
+
+}
+
+
+
+#contentElement {
+    width: 640px;
+    height: 360px;
+    overflow: hidden;
+
+}
+
+
+
+.text2 {
+    padding-top: 1000px;
+}
+
+.text3 {
+    padding-top: 1000px;
+}
